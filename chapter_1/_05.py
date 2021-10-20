@@ -32,6 +32,10 @@ def ngram(str,n,att):
 
     return ret
 
-str = "I am an NLPer"
-# print(ngram(str,2,"word"))
-print(ngram(str,2,"char"))
+def main():
+    str = "I am an NLPer"
+    # print(ngram(str,2,"word"))
+    print(ngram(str,2,"char"))
+
+if __name__ == "__main__":
+    main()
