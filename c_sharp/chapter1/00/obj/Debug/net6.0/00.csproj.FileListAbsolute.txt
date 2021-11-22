@@ -1,0 +1,15 @@
+/home/satoshi/nlp100_traininig/c_sharp/chapter1/00/obj/Debug/net6.0/00.csproj.AssemblyReference.cache
+/home/satoshi/nlp100_traininig/c_sharp/chapter1/00/obj/Debug/net6.0/00.GeneratedMSBuildEditorConfig.editorconfig
+/home/satoshi/nlp100_traininig/c_sharp/chapter1/00/obj/Debug/net6.0/00.AssemblyInfoInputs.cache
+/home/satoshi/nlp100_traininig/c_sharp/chapter1/00/obj/Debug/net6.0/00.AssemblyInfo.cs
+/home/satoshi/nlp100_traininig/c_sharp/chapter1/00/obj/Debug/net6.0/00.csproj.CoreCompileInputs.cache
+/home/satoshi/nlp100_traininig/c_sharp/chapter1/00/bin/Debug/net6.0/00
+/home/satoshi/nlp100_traininig/c_sharp/chapter1/00/bin/Debug/net6.0/00.deps.json
+/home/satoshi/nlp100_traininig/c_sharp/chapter1/00/bin/Debug/net6.0/00.runtimeconfig.json
+/home/satoshi/nlp100_traininig/c_sharp/chapter1/00/bin/Debug/net6.0/00.dll
+/home/satoshi/nlp100_traininig/c_sharp/chapter1/00/bin/Debug/net6.0/ref/00.dll
+/home/satoshi/nlp100_traininig/c_sharp/chapter1/00/bin/Debug/net6.0/00.pdb
+/home/satoshi/nlp100_traininig/c_sharp/chapter1/00/obj/Debug/net6.0/00.dll
+/home/satoshi/nlp100_traininig/c_sharp/chapter1/00/obj/Debug/net6.0/ref/00.dll
+/home/satoshi/nlp100_traininig/c_sharp/chapter1/00/obj/Debug/net6.0/00.pdb
+/home/satoshi/nlp100_traininig/c_sharp/chapter1/00/obj/Debug/net6.0/00.genruntimeconfig.cache
